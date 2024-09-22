@@ -1,0 +1,116 @@
+﻿miRNA,Target gene,Pathway,Pathway in pictorial representation,Citation
+stu-miR398b-3p, Cu/Zn SOD gene, ROS scavenging pathway.,https://drive.google.com/file/d/1XhhLR4_5JHtwVAciTu6ziH7GqTNlnqda/view?usp=drive_link, Zheng et al. 2014 
+ Stu-mi164 , TF StNAC262, microRNA-mediated gene silencing pathway ,https://drive.google.com/file/d/1UkLXEotWG9CUQBraeNLcJ5U7vXzFmTVn/view?usp=drive_link,Zhang et al. 2018
+" stu-novel-miR28211  
+","StuPOD13654: This gene encodes a peroxidase that catalyzes the conversion of coniferyl alcohol into guaiac wood lignin monomers.
+",The key pathway identified in this study is the Phenylpropanoid biosynthesis pathway (KEGG pathway ko00940). ,https://drive.google.com/file/d/1sJsAY3mExsXJ8bLGsPTL_g-Jr282MlMV/view?usp=drive_link,Liao et al.2021
+miR172,"the target gene of miR172 is an APETALA2-like mRNA, which contains a miR172 binding site.", photoperiod-dependent tuberization pathway.,https://drive.google.com/file/d/1hPemW5z2n48i5jqUQsss2Dc04neVCc6j/view?usp=drive_link, Martin et al. 2009
+miR172d,The miR172d targeting APETALA2/ethylene response factor and phospholipase D,"Ethylene Signaling Pathway
+
+",https://drive.google.com/file/d/18iKq1PsKc7GLGfmBs4FgrAmmixjzBWfJ/view?usp=drive_link,Wang et al. 2022
+ miR396,"miR396: Targets PGSC0003DMG400026899 (multicystatin gene).
+
+
+","In the potato-Phytophthora infestans interaction, miRNAs, are involved in a cross-kingdom regulatory pathway that modulates plant immunity and pathogen colonization.",https://drive.google.com/file/d/1DKQZzrdpjPL8RI30MDhK9pX4cfOb_zDF/view?usp=drive_link,Luo et al.2023
+miR172b-3p,ERTF RAP2-7-like,"Ethylene Response Factor (ERF) Signaling Pathway
+
+",https://drive.google.com/file/d/1U4cVZnB3ZAp2PMcY_wX1XyruR-Zy6UAI/view?usp=drive_link,Asim et al.2021
+stu-miR159,"target prediction showed that they have a bite sit on the three GAMyb-like genes (StGAMyb-like1, StGAMyb-like2.1, and StGAMyb-like2.2) of potato..and thisGAMyb - like genes belong to R2R3 MYM Domain TFs.", RNA interference (RNAi) pathway.,https://drive.google.com/file/d/1ZXTU9ccfisnDIpogLxgMV_jzFCl4q8bC/view?usp=drive_link,Iqbal et al. 2016
+"amiRNA-159P25, amiRNA-159HCPro and amiRNA-159Brp1(The 228 bp backbone of pre-miRNA159 of Arabidopsis was used to generate artificial pre-miRNA159 )","P25, HC-Pro and Brp1 of potato virus X (PVX), potato virus Y (PVY) and potato spindle tuber viroid (PSTVd)", amiRNA-based RNA silencing pathway ,https://drive.google.com/file/d/1Q15Gmy8VmM8HK2xqB_y2BNBGvlbS6DDU/view?usp=drive_link,Jiang et al.2023
+miR172,Four AP2-like Genes: These are part of the AP2/AP2-like gene family involved in various plant functions.,"APETALLA2 (AP2) Signaling Pathway
+",https://drive.google.com/file/d/1DmE3XVCY1AzBGGlB_077xF-vtpk8CNNp/view?usp=drive_link,ANJAN K. et al.2011
+ stu-miR396-5p,"stu-miR396-5p:
+   - Target Gene:StNiR (Nitrate Reductase), which is a key enzyme in nitrogen metabolism.", Nitrogen Metabolism Pathway,https://drive.google.com/file/d/1NQgtyALqy77fZOmmog83lEkfbDx4IWur/view?usp=drive_link,Lu et al.2022
+"miR172
+",StBEL5,"PHYB-Induced Tuberization Inhibition Pathway
+",https://drive.google.com/file/d/1b1eCvrIHXuzQgVtQO6VU3g6M7LbGempR/view?usp=drive_link,Sarkar et al. 2010
+stu-miR8030-5p/StCPY714,"StCPY714- Targeted by miRNA stu-miR8030-5p.
+","High-Temperature Tuberization Inhibition Pathway
+",https://drive.google.com/file/d/1lNPm_wCag0RSRE3II-iNNS0f_FVFt34O/view?usp=drive_link,He et al.2024
+StmiR858," SUSY1 (Sucrose Synthase 1): This gene is a target of the MYB transcription factor StAN1, and its expression is upregulated in response to sucrose, contributing to sucrose metabolism.
+
+INV1 (Invertase 1): Another target of StAN1, INV1 is involved in sucrose breakdown, and its expression is also increased by sucrose signaling through StAN1.", phenylpropanoid biosynthesis pathway,https://drive.google.com/file/d/1V1wgK1TwcNf_Whb5lg4oqJHZT_mCryBt/view?usp=drive_link,Lin et al.2021
+miR166 ,"miR166, miR159 and their target transcriptional regulators HD-ZIP-Phabulosa/Phavulota and Myb101, respectively.","
+
+miR166–HD-ZIP-Phabulosa/Phavulota Pathway",https://drive.google.com/file/d/1CBTX6bqP5n_6DGgrtP-1Co5OLDhWpPVb/view?usp=drive_link,Kitazumi et al.2015
+"artificial miRNA- amiR80.1-8
+and amiR80.2-14","miR166, miR159 and their target transcriptional regulators HD-ZIP-Phabulosa/Phavulota and Myb101, respectively.
+genes encodingproteins like cap-binding protein 80 (CBP80) and cap-binding protein 20 (CBP20)
+which  are  involved
+in RNA processing which  affects the ABA (abscisic acid) signal transduc-
+tion occurring in drought-stressed plants.
+CBP80 protein regulates the level of miR159, MYB33 and
+MYB101 in ABA-mediated drought response", miR159-MYB pathway,https://drive.google.com/file/d/1Ia9eyVYarzwXqB1doG6yCWHychpfjxfy/view?usp=drive_link,Pieczynski et al.2012
+miR171,GRAS family of transcription factors., GRAS gene regulatory pathway.   ,https://drive.google.com/file/d/1ESFUiA4_xs5BjO0cAHVJvd-GzM6zQ6WI/view?usp=drive_link,Hwang et al.2011
+nta-miR6019 (22-nt) ,N Transcripts are targetted for Silencing., miRNA-mediated RNA silencing pathway.,https://drive.google.com/file/d/1RWdvQ1JAh9p54BFxKJ6DhNqz8PVE6di6/view?usp=drive_link,Li et al.2012
+miR394,StA/N-INVE and StLCR, miR394-mediated chloroplast retrograde signaling pathway.,https://drive.google.com/file/d/1CYrDCpxk2_zJbwno5wca0vU8pKEY4cx5/view?usp=drive_link,Sun et al.2024
+stu-miR530,"miRNAs respond to cold stress by regulating circadian rhythm, carotenoid biosynthesis, and plant hormone signal transduction metabolic pathways in potato.
+low-temperature treatment, qRT-PCR analysis clearly showed that StuABF8011 and StuAAO36826 were significantly negatively targeted by stu-novel-miR5125, which regulated abscisic acid metabolic pathways. Gibberellin 3beta-dioxygenase (GA3ox1) is a key enzyme of gibberellin synthesis, and in the same way, GA3ox123158 is also negatively regulated by stu-novel-miR10881.", ABA (abscisic acid) signaling pathway.,https://drive.google.com/file/d/13A6MBrnL4MWzxNRHYOE21Z8edG3zVDTC/view?usp=drive_link,Zhang et al.2022
+MicroRNA156 (miR156),"SQUAMOSA PROMOTER BINDING-LIKE3 (StSPL3), StSPL6, StSPL9, StSPL13, and StLIGULELESS1 as targets of miR156",photoperiodic tuberization pathway,https://drive.google.com/file/d/1a8uhuDjsEzyLVcfTR1SECL-5R5vqqc_0/view?usp=drive_link, Bhogale et al.2013
+miR160a-5p,"sgRNAs.sgRNAs targets both 5' and 3' ends of each mature miR-5p coding sequence (i.e. miR160a-5p, miR160b-5p, miR390a-5p).",CRISPR/Cas9-mediated miRNA editing pathway.,https://drive.google.com/file/d/1g1ceTigomVSfWJaDAg0wTYoEaTFC31yY/view?usp=drive_link,Lukan et al.2022
+miR160a-5p,ARF16, Auxin Response Factor (ARF) signaling pathway,https://drive.google.com/file/d/17WiUXNkWwACrtDqlT115ZuXO8sAzpALV/view?usp=drive_link, Sanli et al.2021
+miRNA 160 ,"miR160 targets:
+   - AUXIN RESPONSE FACTORS (ARFs), particularly ARF10, ARF16, and ARF17. These ARFs regulate auxin signaling pathways that influence plant growth and immune responses.
+",plant innate immunity pathway,https://drive.google.com/file/d/14zd5JxeJZaqm3zk1xaawbC-5zXX3AxCT/view?usp=drive_link,Yang et al.2021
+ST4.03ch01,343 target genes for the 18 novel miRNAs were screened out.miRNAs have been demonstrated to be implicated in brown pigment biosynthesis through targeting PPOs in other plants.,tissue-specific miRNA-mediated gene regulation pathway,https://drive.google.com/file/d/1Id0ZIwcks1kTmy3gYJiMircYTWtHdy9n/view?usp=drive_link,Chi et al.2015
+The amiRNA sequences were incorporated in an Arabidopsis thaliana miR168a gene backbone built in a plant binary vector.The amiRNA include amiRPPO1," amiRPPO1 designed to target the StuPPO1 gene. 
+",PPO gene silencing and oxidative browning reduction pathway.,https://drive.google.com/file/d/1M9VoOSXSiB9RBfFfrWqc0_R9lDdM-DDG/view?usp=drive_link,Chi et al.2014
+miR160a/b,StARF10 and StARF16., auxin signaling pathway ,https://drive.google.com/file/d/1E6TZqDUNttd1GGbJ4sMnYqR6WQXRjk1m/view?usp=drive_link,Yang et al.2021
+ miR811,MYB transcription factor (CV431094), ABA-dependent drought stress signaling pathway. ,https://drive.google.com/file/d/1Xtp4yIiJBI9oXrh5p3p_Slpkn6R3vcVR/view?usp=drive_link,Zang et al.2014
+miR172,miR172 which targets members of the AP2 transcription factors, sucrose-dependent signaling pathway,https://drive.google.com/file/d/1Jeifq2Mv1IvYqEgI4I-ax0mIiExMTpzd/view?usp=drive_link,Garg et al.2014
+stu-miR8006-p5-1ss9AT,"root cultures (PGSC0003DMT400013837), root meristem growth (PGSC0003DMT400079970), root morphogenesis (PGSC0003DMT400040282), post-embryonic root development (PGSC0003DMT400021612), root hair elongation (PGSC0003DMT400034518), cell wall repair (PGSC0003DMT400074930), and auxin polar transport (PGSC0003DMT400079970), and by negatively regulating cell proliferation (PGSC0003DMT400009997) and cell growth (PGSC0003DMT400003464).", auxin signaling pathway,https://drive.google.com/file/d/1hYfOHXyPr-aeEUFTw3gkwu1fOiXqeghS/view?usp=drive_link,Duan et al.2024
+miR390,StCDPK1 (Solanum tuberosum Calcium-Dependent Protein Kinase 1),Calcium-Dependent Protein Kinase (CDPK)-mediated auxin transport pathway.,https://drive.google.com/file/d/1bV2usT4BAvbwluSCmeql_yqLA8mfjzXH/view?usp=drive_link,Santin et al.2016
+miR172,miR172 may regulate P5CS gene.,miRNA-regulated proline biosynthesis and degradation pathway.,https://drive.google.com/file/d/11s3AKTJrlYb4Kp_WIKVoqGj__FcQRrGL/view?usp=drive_link,Yang et al.2013
+miR8788,"miR8788 was found to target a potato alpha/beta hydrolase-type encoding gene (StABH1), a protein localized to the plasma membrane.", RNA silencing pathway+C27,https://drive.google.com/file/d/1-qMBgy_bb_y7WwzHxfGJ0xwLqi3c6irm/view?usp=drive_link,Hu et al.2021
+MiRNA160,StARF10,salicylic acid (SA)-mediated defense and auxin-mediated growth pathways,https://drive.google.com/file/d/17qDuJ9q3vQdcXRGsIPjqzHS7VlIkdXAb/view?usp=drive_link, Natarajan et al.2018
+miR482e,NBS-LRR,miR482-mediated silencing cascade.,https://drive.google.com/file/d/1g4VQKaunqXd4iUlDitU1rtsfr01eZV8-/view?usp=drive_link,Yang et al.2015
+miR828,"the target genes regulated by miR828 and TAS4 D4(-) are MYB transcription factors, specifically MYB12, R2R3-MYB, and MYB-36284.",miR828-directed regulation of anthocyanin biosynthesis.,https://drive.google.com/file/d/1g4VQKaunqXd4iUlDitU1rtsfr01eZV8-/view?usp=drive_link,Bonar et al.2018
+MicroR408,"IbKCS (3-ketoacyl-CoA synthase 4), IbPCL (plantacyanin), and IbGAUT (galacturonosyltransferase 7-like) .",miR408-mediated regulatory pathway,https://drive.google.com/file/d/1qnhSTcbcvnA8Cp_LN9yJP8MFN4EiNwen/view?usp=drive_link,Kuo et al.2018
+MicroRNA160,StARF16,auxin signaling pathway,https://drive.google.com/file/d/1pU6nElUStFvcD7nX1t-IQm3-_rodphtx/view?usp=drive_link,Natarajan et al.2020
+miRNA160,"For miR160, the target gene involved is StARF16.
+"," jasmonic acid (JA) and salicylic acid (SA) signaling pathways
+
+ 
+",https://drive.google.com/file/d/1gUtrQ4CCY2Cq9JoDkOKfPEmKTW6pIXiU/view?usp=drive_link,KALSI et al.2022
+Stu-mi164 ,StNAC262, Stu-miR164-mediated regulation of NAC transcription factors under osmotic stress.,https://drive.google.com/file/d/1dy0FTuR2T6hMDLZOcW3SLGvH2vV-o5-x/view?usp=drive_link,Zhang et al.2018
+miR156,The target gene involved in the regulation by miR156 in this context is StSPL9(SQUAMOSA PROMOTER BINDING PROTEIN-LIKE 9).,miR156/SPL regulatory pathway,https://drive.google.com/file/d/1fYkBo97pLJ-0NZmEbz3z2LVwYTZFaTC-/view?usp=drive_link, Luo et al.2024
+miR166 ,"The target genes involved in the miRNA-mediated regulation under salinity stress in the Andean potato cultivar Sullu are:
+
+ HD-ZIP-Phabulosa/Phavulota(targeted by miR166)
+", defense-related pathways ,https://drive.google.com/file/d/1NA7Ws_DMXCNGLd8VNTTh_mKbsP9eEAGH/view?usp=drive_link,Kitazumi et al.2015
+miRNA 172, APETALA2-like transcription factors, AzaC-induced DNA demethylation and miRNA172 regulatory pathway.,https://drive.google.com/file/d/1NA7Ws_DMXCNGLd8VNTTh_mKbsP9eEAGH/view?usp=drive_link,Marfil et al.2014
+miR398,"1. Cu/Zn Superoxide Dismutase 1 (CSD1)
+2. Cu/Zn Superoxide Dismutase 2 (CSD2)
+3. Mitochondrial Cytochrome Oxidase Subunit V (COX5b)
+4. Copper Chaperone for Superoxide Dismutase (CCS1)
+5. Blue Copper-Binding Protein (BCBP)
+6. Nodulin 19 (Nod19)
+7. Ascorbate Peroxidase 6 (APX6).8. AGAMOUS-Like 51 (AGL51)
+9. AGAMOUS-Like 52 (AGL52)
+10. AGAMOUS-Like 78 (AGL78)","miR398-CSD Regulatory Pathway
+",https://drive.google.com/file/d/1006AuKV7pIYurbC0ZIaAx9_OCZotyxJJ/view?usp=drive_link,Li et al.2014
+stu-miR169s," In the context described, the target genes involved are the StNF-YA (Nuclear Factor Y, subunit A) genes in potato. These genes are transcription factors that play a crucial role in regulating various processes related to plant development and stress responses. The mature stu-miR169 family members specifically target the StNF-YA genes, leading to their down-regulation under normal conditions. During drought stress, the expression of stu-miR169 is decreased, which allows for the over-expression of the StNF-YA genes, thereby contributing to the plant’s adaptive response to drought stress.","e miR169/NF-YA module, which is part of the broader regulatory network of gene expression in plants under stress conditions.",https://drive.google.com/file/d/1NA7Ws_DMXCNGLd8VNTTh_mKbsP9eEAGH/view?usp=drive_link,Yang et al.2015
+stu-miR482a-3p,TIR-NBS-LRR resistance protein.,"ROS Scavenging and Defense Response Pathway
+",https://drive.google.com/file/d/18wl8THPPzV2bUl540tgmxcReL1qCeL4J/view?usp=drive_link,Rey-Burusco et al.2019
+ Stu-miR827,StWRKY48 Transcription Factor," Stomatal Density Regulation Pathway
+", https://drive.google.com/file/d/1UkLXEotWG9CUQBraeNLcJ5U7vXzFmTVn/view?usp=drive_link,Yang et al.2022
+miR395,"F-box protein family,Disease resistance protein,WRKY protein.","
+ late blight resistance pathway in potato",https://drive.google.com/file/d/1kX6-LGOoV-uvNO0OZy3FxKHIpv6mkmHK/view?usp=drive_link,Singh et al.2016
+"miR156. A non-coding, non cleavable RNA-Mimic of 
+miR156 (MIM156) construct in Solanum tuberosum ssp andigena to obtain miR156
+Knockdown","miR156 likely targets SPL genes.
+",The specific pathway involved is the Photoperiod-dependent Tuberization Pathway,https://drive.google.com/file/d/1QHCUGmN25LyzeBnykOMBTqKMAF7y_MLH/view?usp=drive_link,REVI et al.2015
+artificial miRNAs (amiRNAs) - vd-sRNAs derived from the virulence modulating region of PSTVd,StTCP23,The pathway involved is the RNA Silencing Pathway,https://drive.google.com/file/d/1aT1BVC_xVeOP31k_rEuOvXpwrAW9pZzR/view?usp=drive_link,Bao et al.2019
+miR159, miR159 specifically target the members of MYB family.,The vegetative-to-reproductive transition pathway,https://drive.google.com/file/d/1NA7Ws_DMXCNGLd8VNTTh_mKbsP9eEAGH/view?usp=drive_link,Ma et al.2019
+miR482,"the miR482 family targets resistance genes, particularly those encoding NBS-LRR proteins, highlighting their role in regulating immune responses and providing a dynamic yet robust mechanism for targeting resistance genes in the Solanaceae family.", plant immune response pathway,https://drive.google.com/file/d/1NelL0W7sS6wOoPVvpbEmGIKHUd566as4/view?usp=drive_link,Vries et al.2015
+stu-novel-miR43095, StuPOD32147: This gene encodes another peroxidase that facilitates the conversion of sinapyl alcohol into syringyl lignin monomers.,The key pathway identified in this study is the Phenylpropanoid biosynthesis pathway (KEGG pathway ko00940). ,https://drive.google.com/file/d/1sJsAY3mExsXJ8bLGsPTL_g-Jr282MlMV/view?usp=drive_link,Liao et al.2021
+miR482e,"miR482e targeting ATPase GET3-like, and PC-3p-17015_391 targeting stachyose synthase",Ethylene Signaling Pathway,https://drive.google.com/file/d/18iKq1PsKc7GLGfmBs4FgrAmmixjzBWfJ/view?usp=drive_link,Wang et al. 2022
+miR394," miR394: Targets PGSC0003DMG400034305 (F-box protein for auxin signaling and leaf morphogenesis) and P. infestans genes PITG_08162-81, PITG_08166-69, PITG_08170, PITG_20983, PITG_20985-86.","In the potato-Phytophthora infestans interaction, miRNAs, are involved in a cross-kingdom regulatory pathway that modulates plant immunity and pathogen colonization.",https://drive.google.com/file/d/1DKQZzrdpjPL8RI30MDhK9pX4cfOb_zDF/view?usp=drive_link,Luo et al.2023
+miR6149-5p,"miR6149-5p: Targets PGSC0003DMG400021641 (galactose oxidase, F-box protein CPR30).","In the potato-Phytophthora infestans interaction, miRNAs, are involved in a cross-kingdom regulatory pathway that modulates plant immunity and pathogen colonization.",https://drive.google.com/file/d/1DKQZzrdpjPL8RI30MDhK9pX4cfOb_zDF/view?usp=drive_link,Luo et al.2023
+Novel 133,"Novel 133: Targets PITG_05949, PITG_07309, PITG_12774.","In the potato-Phytophthora infestans interaction, miRNAs, are involved in a cross-kingdom regulatory pathway that modulates plant immunity and pathogen colonization.",https://drive.google.com/file/d/1DKQZzrdpjPL8RI30MDhK9pX4cfOb_zDF/view?usp=drive_link,Luo et al.2023
+ Novel 140, Novel 140: Targets PITG_08205.,"In the potato-Phytophthora infestans interaction, miRNAs, are involved in a cross-kingdom regulatory pathway that modulates plant immunity and pathogen colonization.",https://drive.google.com/file/d/1DKQZzrdpjPL8RI30MDhK9pX4cfOb_zDF/view?usp=drive_link,Luo et al.2023
+StAGL8a,StAGL8a - Targeted by miRNA stu-miR7981f-p5.,High-Temperature Tuberization Inhibition Pathway,https://drive.google.com/file/d/1lNPm_wCag0RSRE3II-iNNS0f_FVFt34O/view?usp=drive_link,He et al.2024
+StAGL8b, StAGL8b - Targeted by miRNA stu-miR10532A.,High-Temperature Tuberization Inhibition Pathway,https://drive.google.com/file/d/1lNPm_wCag0RSRE3II-iNNS0f_FVFt34O/view?usp=drive_link,He et al.2024
+miR166,miR166 and their target transcriptional regulators HD-ZIP-Phabulosa/Phavulota .,miR159–Myb101 Pathway,https://drive.google.com/file/d/1CBTX6bqP5n_6DGgrtP-1Co5OLDhWpPVb/view?usp=drive_link,Kitazumi et al.2015
+miR166," miR166 targets:
+   - Class III HOMEODOMAIN LEUCINE ZIPPER (HD-ZIP III) transcription factors, specifically PHABULOSA (PHB), PHAVOLUTA (PHV), and REVOLUTA (REV). These genes are essential for vascular development and immune responses during pathogen infection.",plant innate immunity pathway,https://drive.google.com/file/d/14zd5JxeJZaqm3zk1xaawbC-5zXX3AxCT/view?usp=drive_link,Yang et al.2021
